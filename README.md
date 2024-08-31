@@ -34,6 +34,12 @@ Junior Developer with experience in Python and JavaScript, proficient in framewo
 [![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
+### Stats
+
+![Vinicios GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicioscsoares&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioscsoares&hide_progress=false)
+
 ## I'm aspiring to Game Development in Godot :)
 
 
